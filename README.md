@@ -1,4 +1,4 @@
-# 📊 Sales Analytics & Forecasting Tool
+# Sales Analytics & Forecasting Tool
 
 A Python tool that turns raw sales data (CSV) into a polished, self-contained
 HTML report — complete with KPIs, visualizations, and a baseline revenue
